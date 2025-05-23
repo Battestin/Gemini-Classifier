@@ -38,3 +38,7 @@ Edit `possible_categories_list` in `main()` to use your own category set.
 ## ⚠️ Note
 
 This is a prototype using LLMs. Always validate the output before using it in real applications.
+
+## 📄 License
+
+MIT
